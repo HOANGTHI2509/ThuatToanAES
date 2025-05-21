@@ -1,5 +1,5 @@
 <h2 align="center">
-    <a href="image.png">
+    <a href="DaiNam.png">
     🎓 Faculty of Information Technology (DaiNam University)
     </a>
 </h2>
